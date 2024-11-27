@@ -1,2 +1,3 @@
 Contenido Archivo A
 Primer Cambio Archivo A1
+Segundo Cambio Archivo A2 (BranchA)
