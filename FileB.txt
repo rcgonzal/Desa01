@@ -1,1 +1,3 @@
 Contenido Archivo B.
+Primer Cambio al Archivo B1
+Tercer Cambio ArchivoB (BranchA)
